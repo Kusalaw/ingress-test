@@ -1,0 +1,12 @@
+{
+    "name": "aks-ingress",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/azure-native": "^1.0.0",
+        "@pulumi/cloudflare": "^4.5.0",
+        "@pulumi/kubernetes": "^3.17.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
